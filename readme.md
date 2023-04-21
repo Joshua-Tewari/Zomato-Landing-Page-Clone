@@ -1,3 +1,3 @@
-#This is my zomato landing page clone
+#This is my zomato landing page clone. Made using html and css
 
-#This the setup created here for my application
+
